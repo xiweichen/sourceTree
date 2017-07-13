@@ -5,6 +5,15 @@ package com.java.base.test;
  */
 public class learn {
 
+    public learn(){
+
+        System.out.println("Dev 中增加一个输出文件");
+
+
+
+    }
+
+
 
 
 
